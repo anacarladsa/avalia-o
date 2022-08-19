@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color: rgb(250, 235, 215);
+}
+h1{
+    color: rgb(220, 20, 60);
+}
+.campos{
+    margin: 1em;
+}
